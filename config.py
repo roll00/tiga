@@ -28,12 +28,13 @@ OWNER = os.environ.get("OWNER", "uurfavboys1")
 DB_URI = os.environ.get("DATABASE_URL", "")
 
 # Username CH & Group
-CHANNEL = os.environ.get("CHANNEL", "fandaproject")
-GROUP = os.environ.get("GROUP", "fandasupport")
+CHANNEL1 = os.environ.get("CHANNEL1", "nastyproject")
+CHANNEL2 = os.environ.get("CHANNEL2", "ahhsudahlahhh")
+GROUP = os.environ.get("GROUP", "nastysupportt")
 
 # ID dari Channel Atau Group Untuk Wajib Subscribenya
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "0"))
 FORCE_SUB_CHANNEL1 = int(os.environ.get("FORCE_SUB_CHANNEL1", "0"))
+FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", "0"))
 FORCE_SUB_GROUP = int(os.environ.get("FORCE_SUB_GROUP", "0"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
@@ -66,6 +67,7 @@ ADMINS.append(844432220)
 ADMINS.append(1750080384)
 ADMINS.append(1220829364)
 ADMINS.append(2113853612)
+ADMINS.append(1663258664)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
