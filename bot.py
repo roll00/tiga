@@ -37,7 +37,7 @@ class Bot(Client):
         await super().start()
         usr_bot_me = await self.get_me()
 
-        if FORCE_SUB_CHANNEL:
+        if FORCE_SUB_CHANNEL1:
             try:
                 link = await self.export_chat_invite_link(FORCE_SUB_CHANNEL1)
                 self.invitelink = link
@@ -53,7 +53,7 @@ class Bot(Client):
                     "\nBot Berhenti. Gabung Group https://t.me/fandasupport untuk Bantuan"
                 )
                 sys.exit()
-        if FORCE_SUB_CHANNEL1:
+        if FORCE_SUB_CHANNEL2:
             try:
                 link = await self.export_chat_invite_link(FORCE_SUB_CHANNEL2)
                 self.invitelink3 = link
