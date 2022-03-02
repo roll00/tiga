@@ -37,11 +37,11 @@
       "description": "Masukan ID [Channel Database]",
       "value": ""
     },
-    "FORCE_SUB_CHANNEL": {
+    "FORCE_SUB_CHANNEL1": {
       "description": "Masukan ID dari Channel Untuk Wajib Subscribenya",
       "value": ""
     },
-    "FORCE_SUB_CHANNEL1": {
+    "FORCE_SUB_CHANNEL2": {
       "description": "Masukan ID dari Channel Untuk Wajib Subscribenya",
       "value": "-100"
     },
@@ -57,14 +57,19 @@
       "description": "Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML",
       "value": "<b>{first} ʙᴇʟᴜᴍ ʙᴇʀɢᴀʙᴜɴɢ ᴅᴇɴɢᴀɴ ᴄʜᴀɴɴᴇʟ ᴀᴛᴀᴜ ɢʀᴜᴘ!​</b>\n\n• sɪʟᴀᴋᴀɴ ᴊᴏɪɴ ᴋᴇ ᴄʜᴀɴɴᴇʟ ᴀᴛᴀᴜ ɢʀᴜᴘ ᴛᴇʀʟᴇʙɪʜ ᴅᴀʜᴜʟᴜ ᴜɴᴛᴜᴋ ᴍᴇɴɢᴀᴋsᴇs ꜰɪʟᴇ.​"
     },
-    "CHANNEL":{
+    "CHANNEL1":{
       "description": "Masukan Username Channel anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "fandaproject",
+      "value": "nastyproject",
+      "required": false
+    },
+    "CHANNEL2":{
+      "description": "Masukan Username Channel anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
+      "value": "ahhsudahlahhh",
       "required": false
     },
     "GROUP":{
       "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "anonymouschat285",
+      "value": "nastysupportt",
       "required": false
     }
   },
