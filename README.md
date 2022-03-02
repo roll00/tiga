@@ -21,8 +21,12 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 ##
 ### Installation
-#### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/muhammadrizky16/pile-sharing1)</br>
+<h2 align="center">
+   Metode Deploy
+</h2>
+
+<p align="center">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/muhammadrizky16/pile-sharing1"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>   </p>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
