@@ -26,7 +26,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 </h2>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/muhammadrizky16/pile-sharing1"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>   </p>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/xflskyy/sharing1"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>   </p>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
